@@ -1,5 +1,3 @@
-# Homework
-# Задоянная Анастасия, Дубина Александра БИ-252
 from get_rate import getrates
 
 def main():
